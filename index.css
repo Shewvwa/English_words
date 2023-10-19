@@ -1,0 +1,55 @@
+body {
+	margin: 0px;
+	font-family: "Comfortaa";
+}
+
+.fz16 {
+	font-size: 16px;
+}
+
+.fz24 {
+	font-size: 24px;
+}
+
+.fz32 {
+	font-size: 32px;
+}
+
+
+input{
+	font-family: "Comfortaa";
+	border: none;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+button{
+	padding: 10px;
+	font-family: "Comfortaa";
+	border: none;
+}
+
+.result{
+	
+}
+
+.cart{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	width: 100%;
+	height: 100%;
+}
+
+.quiz-container_container{
+	margin-top: 10%;
+	border: 5px solid #797979;
+	padding: 15px;
+	border-radius: 15px;
+}
+
+.quiz-container_container_wrapper{
+	display: flex;
+	flex-direction: column;
+}
